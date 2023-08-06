@@ -41,7 +41,7 @@ Please give some time for server to restart (Served on heroku free dyno).
 
 
 ### 4. Vote Details
-![Vote Details](Frontend/assets/screenshots/Vote%20Details.png)
+![Vote Details](https://github.com/sandeshsg6/I-Voting_Using-Blockchain/blob/main/Frontend/assets/screenshots/Vote%20Details.png)
 
 
 ### 5. Proof of Vote Page
