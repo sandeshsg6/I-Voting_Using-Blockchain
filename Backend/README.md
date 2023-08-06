@@ -3,7 +3,7 @@
 Internet based Voting system using Blockchain Technology was my final year college project.  
 Whole project has 2 parts -  
 Backend: This repository contains backend of the project, which is developed using Python programming language & Flask micro framework.  
-Frontend: Source code for Frontend is available [Here](https://github.com/sandeshsg6/Blockchain-Internet-Voting-Frontend)  
+Frontend: Source code for Frontend is available [Here](https://github.com/sandeshsg6/I-Voting_Using-Blockchain/tree/main/Frontend)  
 
 
 ## Demo of the website
